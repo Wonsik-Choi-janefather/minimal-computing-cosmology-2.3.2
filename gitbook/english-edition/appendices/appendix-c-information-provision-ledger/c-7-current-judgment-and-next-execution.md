@@ -1,0 +1,5 @@
+# C-7 Current Judgment and Next Execution
+
+What is exactly closed is the arithmetic statement that direct storage of an array of 6,369 complex float64 values requires 99.515625 KiB, together with the ledger definition that separates information-provision paths. Structurally fixed are the lineage in which the dimension filter remains inside LAW and the distinction that abstract states and relational addresses are not visible three-dimensional points. Unless global topology, initial scale, and boundary data are derived, they must remain in LAW or explicit boundary data. The SOURCE candidate is η, but its physical magnitude and matching to observables, along with Standard Model mass and coupling predictions, remain OPEN.
+
+This ledger is not a document that has found the universe’s final answer. It does, however, require us to ask “Where did it come from?” for every value obtained. Minimal Computation Cosmology thus advances beyond an idea for reducing storage: it becomes a theory that does not interchange input information, computed information, and events not yet born.

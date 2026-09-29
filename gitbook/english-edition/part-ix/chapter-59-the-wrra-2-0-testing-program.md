@@ -1,0 +1,21 @@
+# Chapter 59 The WRRA 2.0 Testing Program
+
+**Assessment Grades**
+
+EXACT: finite prime-factorization incidence, conservation of total quantity under a column-stochastic reset, and positivity and conservation of total quantity under an appropriate Laplacian flow.
+
+MODEL AXIOM: equal independent SOURCE status of every prime, interpretation of composites as relation addresses, and the ontological meaning of fixed-present ownership.
+
+OPEN: E\_lift from q\_k to a quantum state; Lorentz-covariant R\_phys; derivation of Standard-Model particles, gauge groups, and generation structure; complete derivation of the Born rule, Bell–CHSH, and no-signalling; single-outcome selection dynamics; the connection between gravity and T\_{μν}; a single covariant action or Hamiltonian containing every submodel; and global arithmetic positivity.
+
+**Forbidden Shortcuts**
+
+The following identifications are not permitted: prime = charge or mass; t = log x = physical time; Q₀ or L² norm = energy; graph positivity = Lorentzian spacetime; fifteen channels = proof of Standard-Model generations; and positivity on a finite window = proof of the Riemann Hypothesis.
+
+**Minimum Empirical Tasks**
+
+① Numerically verify positivity and conservation of total quantity under q\_k transitions and resets on a small finite prime hypergraph. ② Define how E\_lift creates a positive trace-one ρ\_Actual and nonseparable states. ③ Fix R\_phys through a covariant action or explicit operator map and audit dimensions, Lorentz and gauge/BRST covariance, microcausality, and conservation laws. ④ Test CHSH correlations, Born statistics, no-signalling, and the single-outcome rule separately. ⑤ Compare the vacuum's detector response, renormalized T\_{μν}, and pair-production rate with QFT benchmarks. ⑥ Use the full constraint algebra to test whether FLRW, gauge matter, and the renderer coexist in one theory. ⑦ Attach code, input data, environment, and hashes to every REPORTED number and preregister model-specific deviations. ⑧ In the condensed-matter branch, jointly validate mode-resolved pairing and transport kernels, three-dimensional phase stiffness, the Meissner effect, flux quantization, and strain-symmetry signatures in one candidate material. ⑨ In the superfluid branch, jointly measure surface wetting, film thickness, ρ\_s, mass flow, vortices, and phase slips in the same apparatus, and preregister residuals from standard two-fluid and thin-film hydrodynamics. ⑩ Operate life applications in a ledger separate from cosmological validation and preregister a holdout that excludes 105 min entirely from calibration, together with daughter-cell allocation and deletion reactions. ⑪ For DNA expression, test executor swaps, ORF-length-specific full-length fractions, and intergenerational activity separately from calibration. ⑫ For lineage closure, simultaneously measure molecule counts, volumes, and next divisions in paired daughters linked to one mother cell, and preregister allocation baselines and geometry-covariance signals. ⑬ For the first-life boundary, link the sequence, composition, membrane, and energy histories of a mother and two daughter cells; freeze L, the functional-damage error definition, the components of K, and the observation window before inspecting results; and test offspring distributions and lineage survival as no-refit holdouts. ⑭ For the superluminal relation-port branch, first verify a positive spectrum and exact swap in a quantum circuit, then preregister and test distance-independent delay, fidelity across multiple internal states, preferred-frame directional modulation, and an outside-light-cone commutator while shielding conventional paths.
+
+**Final Assessment**
+
+WRRA 2.0 is not presently a completed physical theory but a research program that strictly separates the upstream arithmetic registry from downstream representation of reality. It preserves successes of individual toy models and mathematical constructions, but does not call them one completed foundational theory until E\_lift, R\_phys, single-outcome selection, and a unified covariant action are closed. Success or failure depends on quantitative completion of these four bridges and independently validated experiments with open code.
