@@ -12,7 +12,7 @@ site:
     - type: space
       key: space-2
       title: 한글판
-      path: 2.3.2
+      path: korean-edition
       draft: true
       content:
         directory: ./2.3.2
