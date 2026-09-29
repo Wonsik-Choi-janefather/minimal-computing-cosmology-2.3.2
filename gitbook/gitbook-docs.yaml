@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Minimal Computation Cosmology 2.3.2
+  structure:
+    - type: space
+      key: space-1
+      title: Minimal Computation Cosmology 2.3.2
+      path: english-edition
+      default: true
+      content:
+        directory: ./english-edition
