@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the archived Zenodo record."
+title: "Minimal Computing Cosmology 2.3.2: Integrated Model"
+type: generic
+doi: 10.5281/zenodo.22733000
+version: 2.3.2
+date-released: 2026-09-13
+authors:
+  - family-names: Choi
+    given-names: Wonsik
+    orcid: "https://orcid.org/0009-0001-4263-9772"
+repository-code: "https://github.com/Wonsik-Choi-janefather/minimal-computing-cosmology-2.3.2"
+url: "https://doi.org/10.5281/zenodo.22733000"
+abstract: >-
+  Integrated English manuscript of Minimal Computing Cosmology 2.3.2,
+  presenting the WRRA cosmological model, its assumptions, calculations,
+  interpretations, testable claims, and open questions.
+keywords:
+  - WRRA
+  - Minimal Computing Cosmology
+  - cosmology
+  - common carrier
+  - finite boundaryless universe
