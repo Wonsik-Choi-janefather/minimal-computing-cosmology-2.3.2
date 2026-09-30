@@ -15,3 +15,6 @@ This edition develops a non-privileged model of one universe through minimal com
 > **Assessment rule.** Independent prediction is not required as a condition of theory or originality. Verified constants and observations may legitimately calibrate a model. Each result should be read in the order **verified input → WRRA-specific transformation → output → falsification condition**. A calibrated and frozen WRRA model that produces an unmeasured physical quantity makes a WRRA prediction; blind or independent testing is an additional validation path, not a prerequisite.
 
 Use the navigation to read the introductory material, Parts I–XIV, the conclusion, and Appendices A–E. The appendices include the DOI lineage, glossary, information-provision ledger, final universe model, and all 142 core equations.
+
+
+**ORCID:** [0009-0001-4263-9772](https://orcid.org/0009-0001-4263-9772)
